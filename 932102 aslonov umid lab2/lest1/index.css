@@ -1,0 +1,40 @@
+/* ----------------->ПЕРВЫЙ СТР<---------*/
+.zagl{
+    padding-top: -10px;
+    width: auto;
+    padding-left: -100px;
+    background-color: rgb(221, 234, 243);
+    height: 50px;   
+}
+span{
+    color: red;
+}
+
+.str{
+    padding-top: 1px;
+    width: 200px;
+    height: auto;
+    margin: 0px;
+    background-color: greenyellow;
+}
+.A13{
+    position: absolute;
+    top: 50px;
+    margin:0.5px;
+    padding-top: -10px;
+    margin-left: 210px;
+}
+
+
+.zagl2{
+    background-color: #000000;
+    padding-top: auto; 
+    text-align: center;
+    padding: auto;
+    margin-bottom: -10px;
+}
+a{
+    color: yellow;
+}
+/* ____________________________________________1end */
+

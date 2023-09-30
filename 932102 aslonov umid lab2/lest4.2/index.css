@@ -1,0 +1,11 @@
+.content {
+    background-color: blue;
+    color: white;
+    width:5000px ;
+    /* padding:400px; */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
